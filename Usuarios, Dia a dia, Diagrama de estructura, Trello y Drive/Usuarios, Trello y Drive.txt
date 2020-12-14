@@ -1,0 +1,13 @@
+Admin: 
+ -ID: admin
+ -PW: 123451
+
+Usuario:
+ -ID: gustavo
+ -PW: 123
+
+Nota: en el caso de que no ande el de usuario podes registrarte y despaso probar la parte de registrarse jajaja
+
+
+Trello: https://trello.com/b/xp1r3aGC/tp-final
+Drive: https://drive.google.com/drive/folders/15bzTg06mnI1UJeyIwjkdtOvc68H06jge

@@ -1,0 +1,25 @@
+
+manejo de usuario:
+
+bajar del archivo los usuarios a una lista enlazada,
+de la lista buscar los usuarios que fueron ingresados
+y devolver el nodo correspondiente
+
+
+
+manejo del mazo:
+
+una vez que la funcion haya devuelto la posicion de la lista
+(el usuario) crear una celda con dichos datos. La propiedad
+"Jugador *jug" apuntara a la posicion correspondiente, los puntos de esa 
+estructura son los puntos recolectados cada ronda. Las cartas de cada
+jugador seran las que estan en la propiedad "nodoCarta *lista".
+
+
+repartir cartas:
+
+bajar del archivo las cartas y pasarlas a un arreglo dinamico,
+del arreglo se hace una posicion aleatoria entre 0 y validos-1
+para crear un nodo con esa posicion, una vez generada la lista, 
+sera el mazo a repartir y se reparte del principio, desvinculando
+la lista(mazo) a cada jugador.

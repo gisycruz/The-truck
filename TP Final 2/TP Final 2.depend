@@ -1,0 +1,376 @@
+# depslib dependency file v1.0
+1573308747 source:c:\users\octa\documents\tsp\tp final 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<pthread.h>
+	"Usuarios.h"
+	"Visual.h"
+	"Cartas.h"
+	"CeldaMazo.h"
+
+1572826446 c:\users\octa\documents\tsp\tp final 2\cartas.h
+	"cargaDeMazo.h"
+	"Usuarios.h"
+
+1573251329 source:c:\users\octa\documents\tsp\tp final 2\usuarios.c
+	"Usuarios.h"
+
+1572829445 c:\users\octa\documents\tsp\tp final 2\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	"Jugador.h"
+
+1572825678 source:c:\users\octa\documents\tsp\tp final 2\cartas.c
+	<stdio.h>
+	<stdlib.h>
+	"Cartas.h"
+
+1558817312 source:c:\users\octa\documents\tsp\tp final 2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1573308200 source:c:\users\octa\documents\tsp\tp final 2\visual.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"Cartas.h"
+	"Pila.h"
+	"CeldaMazo.h"
+	"gotoxy.h"
+
+1558548304 c:\users\octa\documents\tsp\tp final 2\gotoxy.h
+
+1573057189 c:\users\octa\documents\tsp\tp final 2\visual.h
+
+1572787392 source:c:\users\octa\documents\tsp\tp final 2\celdamazo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"CeldaMazo.h"
+	"Cartas.h"
+
+1571922740 c:\users\octa\documents\tsp\tp final 2\celdamazo.h
+	"Usuarios.h"
+	"Cartas.h"
+	"Pila.h"
+
+1572736606 source:c:\users\octa\documents\tsp\tp final 2\pila.c
+	"Pila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1572736606 c:\users\octa\documents\tsp\tp final 2\pila.h
+	"Cartas.h"
+
+1572825678 source:c:\users\gise\desktop\tp laboratorio truck\truck\cartas.c
+	<stdio.h>
+	<stdlib.h>
+	"Cartas.h"
+
+1572826446 c:\users\gise\desktop\tp laboratorio truck\truck\cartas.h
+	"cargaDeMazo.h"
+	"Usuarios.h"
+
+1572829445 c:\users\gise\desktop\tp laboratorio truck\truck\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	"Jugador.h"
+
+1572787392 source:c:\users\gise\desktop\tp laboratorio truck\truck\celdamazo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"CeldaMazo.h"
+	"Cartas.h"
+
+1571922740 c:\users\gise\desktop\tp laboratorio truck\truck\celdamazo.h
+	"Usuarios.h"
+	"Cartas.h"
+	"Pila.h"
+
+1572736606 c:\users\gise\desktop\tp laboratorio truck\truck\pila.h
+	"Cartas.h"
+
+1558817312 source:c:\users\gise\desktop\tp laboratorio truck\truck\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1572737541 source:c:\users\gise\desktop\tp laboratorio truck\truck\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<pthread.h>
+	"Usuarios.h"
+	"Visual.h"
+	"Cartas.h"
+	"CeldaMazo.h"
+
+1573057189 c:\users\gise\desktop\tp laboratorio truck\truck\visual.h
+
+1572736606 source:c:\users\gise\desktop\tp laboratorio truck\truck\pila.c
+	"Pila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1573251329 source:c:\users\gise\desktop\tp laboratorio truck\truck\usuarios.c
+	"Usuarios.h"
+
+1573059029 source:c:\users\gise\desktop\tp laboratorio truck\truck\visual.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"Cartas.h"
+	"Pila.h"
+	"CeldaMazo.h"
+	"gotoxy.h"
+
+1558548304 c:\users\gise\desktop\tp laboratorio truck\truck\gotoxy.h
+
+1572825678 c:\users\gise\desktop\tp laboratorio truck\truck\cargamazo.h
+	<stdio.h>
+	<stdlib.h>
+
+1572826431 source:c:\users\gise\desktop\tp laboratorio truck\truck\cargademazo.c
+	"cargaDeMazo.h"
+
+1572825678 c:\users\gise\desktop\tp laboratorio truck\truck\cargademazo.h
+	<stdio.h>
+	<stdlib.h>
+
+1572829445 c:\users\gise\desktop\tp laboratorio truck\truck\jugador.h
+	<stdio.h>
+	<stdlib.h>
+
+1572829445 source:c:\users\gise\desktop\tp laboratorio truck\truck\jugador.c
+	"Jugador.h"
+
+1572826431 source:c:\users\octa\documents\tsp\tp final 2\cargademazo.c
+	"cargaDeMazo.h"
+
+1572825678 c:\users\octa\documents\tsp\tp final 2\cargademazo.h
+	<stdio.h>
+	<stdlib.h>
+
+1572829445 c:\users\octa\documents\tsp\tp final 2\jugador.h
+	<stdio.h>
+	<stdlib.h>
+
+1572829445 source:c:\users\octa\documents\tsp\tp final 2\jugador.c
+	"Jugador.h"
+
+1572826431 source:c:\users\gise\desktop\tp final 2 (2)\tp final 2\cargademazo.c
+	"cargaDeMazo.h"
+
+1572825678 c:\users\gise\desktop\tp final 2 (2)\tp final 2\cargademazo.h
+	<stdio.h>
+	<stdlib.h>
+
+1572825678 source:c:\users\gise\desktop\tp final 2 (2)\tp final 2\cartas.c
+	<stdio.h>
+	<stdlib.h>
+	"Cartas.h"
+
+1572826446 c:\users\gise\desktop\tp final 2 (2)\tp final 2\cartas.h
+	"cargaDeMazo.h"
+	"Usuarios.h"
+
+1573448142 c:\users\gise\desktop\tp final 2 (2)\tp final 2\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	"Jugador.h"
+
+1573436322 c:\users\gise\desktop\tp final 2 (2)\tp final 2\jugador.h
+	<stdio.h>
+	<stdlib.h>
+
+1572787392 source:c:\users\gise\desktop\tp final 2 (2)\tp final 2\celdamazo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"CeldaMazo.h"
+	"Cartas.h"
+
+1571922740 c:\users\gise\desktop\tp final 2 (2)\tp final 2\celdamazo.h
+	"Usuarios.h"
+	"Cartas.h"
+	"Pila.h"
+
+1572736606 c:\users\gise\desktop\tp final 2 (2)\tp final 2\pila.h
+	"Cartas.h"
+
+1558817312 source:c:\users\gise\desktop\tp final 2 (2)\tp final 2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1573506194 source:c:\users\gise\desktop\tp final 2 (2)\tp final 2\jugador.c
+	"Jugador.h"
+
+1573507167 source:c:\users\gise\desktop\tp final 2 (2)\tp final 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<pthread.h>
+	"Usuarios.h"
+	"Visual.h"
+	"Cartas.h"
+	"CeldaMazo.h"
+	"Administrador.h"
+
+1573057189 c:\users\gise\desktop\tp final 2 (2)\tp final 2\visual.h
+
+1572736606 source:c:\users\gise\desktop\tp final 2 (2)\tp final 2\pila.c
+	"Pila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1573448142 source:c:\users\gise\desktop\tp final 2 (2)\tp final 2\usuarios.c
+	"Usuarios.h"
+
+1573358197 source:c:\users\gise\desktop\tp final 2 (2)\tp final 2\visual.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"Cartas.h"
+	"Pila.h"
+	"CeldaMazo.h"
+	"gotoxy.h"
+
+1558548304 c:\users\gise\desktop\tp final 2 (2)\tp final 2\gotoxy.h
+
+1573507365 source:c:\users\gise\desktop\tp final 2 (2)\tp final 2\administrador.c
+	"Administrador.h"
+
+1573505488 c:\users\gise\desktop\tp final 2 (2)\tp final 2\administrador.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"AdministradorArbol.h"
+
+1573507373 source:c:\users\gise\desktop\tp final 2 (2)\tp final 2\administradorarbol.c
+	"Administrador.h"
+
+1573448142 c:\users\gise\desktop\tp final 2 (2)\tp final 2\administradorarbol.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Jugador.h"
+
+1574379876 source:c:\users\octa\documents\tp final 2 (2)\tp final 2\administrador.c
+	"Administrador.h"
+	"Jugador.h"
+
+1574379093 c:\users\octa\documents\tp final 2 (2)\tp final 2\administrador.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"AdministradorArbol.h"
+	"Usuarios.h"
+
+1573433742 c:\users\octa\documents\tp final 2 (2)\tp final 2\administradorarbol.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Jugador.h"
+
+1574375220 c:\users\octa\documents\tp final 2 (2)\tp final 2\jugador.h
+	<stdio.h>
+	<stdlib.h>
+
+1574375220 source:c:\users\octa\documents\tp final 2 (2)\tp final 2\administradorarbol.c
+	"Administrador.h"
+
+1573819353 source:c:\users\octa\documents\tp final 2 (2)\tp final 2\cargademazo.c
+	"cargaDeMazo.h"
+
+1573819353 c:\users\octa\documents\tp final 2 (2)\tp final 2\cargademazo.h
+	<stdio.h>
+	<stdlib.h>
+
+1573818818 source:c:\users\octa\documents\tp final 2 (2)\tp final 2\cartas.c
+	<stdio.h>
+	<stdlib.h>
+	"Cartas.h"
+	"cargaDeMazo.h"
+
+1573818995 c:\users\octa\documents\tp final 2 (2)\tp final 2\cartas.h
+	"Usuarios.h"
+	"cargaDeMazo.h"
+
+1573433742 c:\users\octa\documents\tp final 2 (2)\tp final 2\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	"Jugador.h"
+
+1574375220 source:c:\users\octa\documents\tp final 2 (2)\tp final 2\celdamazo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"CeldaMazo.h"
+	"Cartas.h"
+
+1573562867 c:\users\octa\documents\tp final 2 (2)\tp final 2\celdamazo.h
+	"Usuarios.h"
+	"Cartas.h"
+	"Pila.h"
+
+1573819353 c:\users\octa\documents\tp final 2 (2)\tp final 2\pila.h
+	"Cartas.h"
+
+1558799312 source:c:\users\octa\documents\tp final 2 (2)\tp final 2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1574378483 source:c:\users\octa\documents\tp final 2 (2)\tp final 2\jugador.c
+	"Jugador.h"
+
+1574874415 source:c:\users\octa\documents\tp final 2 (2)\tp final 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<pthread.h>
+	"Usuarios.h"
+	"Visual.h"
+	"Cartas.h"
+	"CeldaMazo.h"
+	"Administrador.h"
+
+1573563231 c:\users\octa\documents\tp final 2 (2)\tp final 2\visual.h
+	"CeldaMazo.h"
+	"Cartas.h"
+
+1574871678 source:c:\users\octa\documents\tp final 2 (2)\tp final 2\pila.c
+	"Pila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1574870456 source:c:\users\octa\documents\tp final 2 (2)\tp final 2\usuarios.c
+	"Usuarios.h"
+
+1574874440 source:c:\users\octa\documents\tp final 2 (2)\tp final 2\visual.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"Cartas.h"
+	"Pila.h"
+	"CeldaMazo.h"
+	"gotoxy.h"
+
+1558530304 c:\users\octa\documents\tp final 2 (2)\tp final 2\gotoxy.h
+
